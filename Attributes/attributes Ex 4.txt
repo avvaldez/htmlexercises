@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<!-- Exercise 4 -->
+<html>
+<body>
+
+<a href="https://www.wwf.org.uk">This is a link</a>
+
+</body>
+</html>
